@@ -2,14 +2,44 @@
 
 [![Status](https://img.shields.io/badge/Status-Under%20Development-orange.svg)]()
 [![Published](https://img.shields.io/badge/LAQ--MLP-Published%20NeurIPS%202024-green.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
-[![Python](https://img.shields.io/badge/Python-3.8+-brightgreen.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8+-orange.svg)](https://tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-yellow.svg)](https://scikit-learn.org/)
+[![Librosa](https://img.shields.io/badge/Librosa-0.8+-purple.svg)](https://librosa.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚧 Repository Status
 
 This repository contains the implementation of our Speech Emotion Recognition (SER) research at **IIT Madras Zanzibar**. Our work includes published contributions on adaptive quantization and ongoing thesis research on multi-branch ensemble architectures.
 
 > **🔔 Stay Updated**: Star this repository to receive notifications when we release the complete implementation!
+
+---
+
+## 🛠️ **Technology Stack**
+
+### **Core Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Data Processing & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+
+### **Visualization & Analysis**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ---
 
@@ -129,7 +159,7 @@ Our research validates across four benchmark datasets:
 
 ## 📧 Contact
 
-- **M.Tech Student**: Avinash Kumar Sharma
+- **Researcher**: Avinash Kumar Sharma
 - **Institution**: Indian Institute of Technology Madras Zanzibar
 - **Email**: zda23m011@iitmz.ac.in
 - **Program**: Master's Thesis Research
@@ -146,4 +176,4 @@ Our research validates across four benchmark datasets:
 
 **Disclaimer**: This repository is under active development as part of Master's thesis research at IIT Madras Zanzibar. Complete implementation will be available following thesis submission and institutional approval.
 
-**Last Updated**: June 2025
+**Last Updated**: July 2025
